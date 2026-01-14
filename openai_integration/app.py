@@ -83,6 +83,13 @@ if prompt := st.chat_input("Type your message here..."):
                 7. List the steps required to start the process, and all the steps that need to be taken in the service until it’s completed.
                 8. Do not overwhelm the user with a lot of information at once, but verify if they require more information.
                 9. Give a warning to the user about the dangers of giving representative status to other individuals as they will have access to the represented assets, if allowed, or other services in the represented name.
+                10. The price for attestation and papers are 100 QR for 3 papers and 50QR for each new copy.
+                11. The validity of the contracts are usually between 1 year at minimum, and 3 years at maximum.
+                12. The documents have to be in Arabic, and if not, they need to be translated by an authorized legal translator.
+                13. Original ID or passport for both parties are required for the process as part of the documents.
+                14. The contract is no allowed to be used in cases involved divorce.
+                15. The contract must be signed by both parties in front of a MoJ representative and the parties should both be physically present.
+                16. The scope of authority given to the representative should be defined clearly before signing the papers.
                 </constraints>
 
                 <output>
