@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-st.set_page_config(page_title="SJC Assitant", page_icon="🏛", layout="centered")
+st.set_page_config(page_title="SJC Assistant", page_icon="🏛", layout="centered")
 
 st.title("🏛 'Issuing a representative contract for individuals.' chatbot assistant")
 st.caption("An SJC assistant")
